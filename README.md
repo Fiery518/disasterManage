@@ -31,5 +31,5 @@
 ***
 -> The front of this system is made from JS, CSS, HTML, NPM and also some elements of Bootstrap.
 
--> Our MAin objective was to make a webpage as responsive to different devices as possible so as to factor in even the smartphone audience as possible without an application.
+-> Our Main objective was to make a webpage as responsive to different devices as possible so as to factor in even the smartphone audience as possible without an application.
 ***
