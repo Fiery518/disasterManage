@@ -1,11 +1,11 @@
 # Multiple Disaster Management and loss incupancy Solution
 
 ***
--> This project is to make a all-purpose solution such that different disaster and losses due to them can be managed easily by any user over thir accounts.
+-> This project is to make an all-purpose solution such that different disaster and losses due to these disaster can be managed easily by any user over thir accounts.
 
--> This model just not only show the predaciments that are happening but also predicts major predaciments and are going to occur over a particular region that the user chooses to monitor.
+-> These model just not only show the predaciments that are happening but also predicts major occurences that are going to occur over a particular region that the user chooses to monitor.
 
--> This model alos predicts the losses financially due to this disaster for the data and the previous extiamtes that are present for this disaster.
+-> This model also predicts the losses financially due to this disaster for the data and the previous estiamtes that are present for this disaster.
 ***
 
 ## First the Disaster managed by our System
