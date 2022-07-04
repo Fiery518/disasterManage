@@ -33,3 +33,9 @@
 
 -> Our Main objective was to make a webpage as responsive to different devices as possible so as to factor in even the smartphone audience as possible without an application.
 ***
+
+***
+-> Will use Basic ReactJS for this project.
+
+-> ;)
+***
